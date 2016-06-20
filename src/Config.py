@@ -9,7 +9,7 @@ import Shared
 
 
 # Sätt till true för att göra spelet väldigt enkelt att vinna
-QUICK_TEST = True
+QUICK_TEST = False
 # Sätt till true för att se vad som finns i varje cell
 CHEAT = False
 
