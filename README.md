@@ -1,4 +1,4 @@
 # py-minesweeper
-Minesweeper implementation in Python using Tkinter.
+Minesweeper implementation in Python using Tkinter, written in 2015 as the final assignment in a 6 credit Python course at Stockholm University. Code comments are in Swedish for now.
 
-Written in 2015 as the final assignment in a 6 credit Python course at Stockholm University.
+To play, run MineSweeper.py.
